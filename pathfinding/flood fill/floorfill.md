@@ -8,3 +8,6 @@ Starting at the start pos itterate until at finish.
   2. mark the current square as a wall
   3. add current spot to path
   4. if the current spot is at the position of the finishing point then return the path
+
+##Flood Fill
+for this example I used a four direction flood fill algorithm.
